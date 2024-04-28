@@ -1,7 +1,7 @@
 <section id="apresentacao">
 	<h1 align="center">Olá pessoal 🖖 </h1>
 	<div align="center">
- 		<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&duration=3000&pause=1000&color=FF0000&center=true&random=false&width=635&lines=Sou+o+Pericles+Cabral.+;Bem+vindos(as)+ao+meu+Github." alt="Typing SVG" 		/></a>
+ 		<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&duration=3000&pause=1000&color=FF0000&center=true&random=false&width=635&lines=Sou+o+Pericles+Cabral.+;Bem+vindos(as)+ao+meu+Github." alt="Typing SVG"/></a>
 	</div>
 </section>
 
@@ -10,14 +10,18 @@
 <ul align="left">
   <li>Pai de pets 🐕🐈, sou um nerd que ama o universo X-men, um Gamer desde os tempos de Atari 🕹, um devorador de filmes e séries 🎞 e um apaixonado por futebol e Flamengo 🔴⚫.</li>
   <li>👨‍🎓 Sou graduado em Ciência da Computação pela <a href="https://www.uesb.br/" target="_blank" >UESB</a>, com aperfeiçoamento em Governança de TI pela <a href="https://ufla.br/" target="_blank" >UFLA</a> e pós graduado em Engenharia de Sistemas pela <a href="https://faculdadefocus.com.br/" target="_blank" >Faculdade Focus</a>.</li>
-  <li>👨‍💻 Tenho experiência em Gestão de TI e Implantação de Sistemas, onde atuei grande parte da minha carreira profissional.</li>
+  <li>👨‍💻 Tenho experiência em Gestão de TI e Implantação de Sistemas, onde atuei grande parte da minha carreira profissional. </li>
   <li>📖 Atualmente estou cursando o Curso de Desenvolvimento de Software Fullstack da <a href="https://cubos.academy/" target="_blank" >Cubos Academy</a>.</li>
 
 ​    
 
-<h1 align="center"> Meus interesses 🧠 </h1>
+<h1 align="center"> Principais tecnologias 🧠 </h1>
 
-<p align="left"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=javascript,typescript,php,python,java,react,nodejs,express,html,css,git,npm,mysql,postgres" /></a></p>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=javascript,php,nodejs,express,git,vscode,npm,mysql,postgres" /></a></p>
+
+<h1 align="center"> Em aprendizado 📚 </h1>
+
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,typescript,react,figma" /></a></p>
 
 
 
