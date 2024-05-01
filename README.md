@@ -11,7 +11,7 @@
   <li>Pai de pets 🐕🐈, sou um nerd que ama o universo X-men, um Gamer desde os tempos de Atari 🕹, um devorador de filmes e séries 🎞 e um apaixonado por futebol e Flamengo 🔴⚫.</li>
   <li>👨‍🎓 Sou graduado em Ciência da Computação pela <a href="https://www.uesb.br/" target="_blank" >UESB</a>, com aperfeiçoamento em Governança de TI pela <a href="https://ufla.br/" target="_blank" >UFLA</a> e pós graduado em Engenharia de Sistemas pela <a href="https://faculdadefocus.com.br/" target="_blank" >Faculdade Focus</a>.</li>
   <li>👨‍💻 Tenho experiência em Gestão de TI e Implantação de Sistemas, onde atuei grande parte da minha carreira profissional. </li>
-  <li>📖 Atualmente estou cursando o Curso de Desenvolvimento de Software Fullstack da <a href="https://cubos.academy/" target="_blank" >Cubos Academy</a>.</li>
+  <li>📖 Atualmente estou cursando o Curso de Desenvolvimento de Software Fullstack da <a href="https://cubos.academy/" target="_blank" >Cubos Academy</a>, buscando uma transição de carreira para a área dev.</li>
 
 ​    
 
